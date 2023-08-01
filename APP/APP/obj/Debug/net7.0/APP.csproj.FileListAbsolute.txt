@@ -1,0 +1,15 @@
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/bin/Debug/net7.0/APP
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/bin/Debug/net7.0/APP.deps.json
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/bin/Debug/net7.0/APP.runtimeconfig.json
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/bin/Debug/net7.0/APP.dll
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/bin/Debug/net7.0/APP.pdb
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.csproj.AssemblyReference.cache
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.AssemblyInfoInputs.cache
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.AssemblyInfo.cs
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.csproj.CoreCompileInputs.cache
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.dll
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/refint/APP.dll
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.pdb
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/APP.genruntimeconfig.cache
+/Users/thiagodornelles/Desktop/APLICATIVO/APP/APP/obj/Debug/net7.0/ref/APP.dll
