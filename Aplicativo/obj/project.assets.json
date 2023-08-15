@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/thiagodornelles/Desktop/APLICATIVO/APP/Aplicativo/Aplicativo.csproj",
+      "projectUniqueName": "/Users/thiagodornelles/Desktop/APLICATIVO/Aplicativo/Aplicativo.csproj",
       "projectName": "Aplicativo",
-      "projectPath": "/Users/thiagodornelles/Desktop/APLICATIVO/APP/Aplicativo/Aplicativo.csproj",
+      "projectPath": "/Users/thiagodornelles/Desktop/APLICATIVO/Aplicativo/Aplicativo.csproj",
       "packagesPath": "/Users/thiagodornelles/.nuget/packages/",
-      "outputPath": "/Users/thiagodornelles/Desktop/APLICATIVO/APP/Aplicativo/obj/",
+      "outputPath": "/Users/thiagodornelles/Desktop/APLICATIVO/Aplicativo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/thiagodornelles/.nuget/NuGet/NuGet.Config"
